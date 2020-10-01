@@ -8,7 +8,7 @@ Gaining investors is hard. With the internet it makes it so much easier to acces
 Javascript standard style using React, Postgres, Styling Libraries and more.
 
 ## Tech/framework used
-- Made using,
+--Made using,
 -JavaScript
 -React.js
 -HTML
