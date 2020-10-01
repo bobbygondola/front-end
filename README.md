@@ -8,16 +8,16 @@ Gaining investors is hard. With the internet it makes it so much easier to acces
 Javascript standard style using React, Postgres, Styling Libraries and more.
 
 ## Tech/framework used
---Made using,
--JavaScript
--React.js
--HTML
--CSS
--Node.js
--Express
--Jest
--SQLite3
--Testing Libraries
+## Made using,
+### JavaScript
+### React.js
+### HTML
+### CSS
+### Node.js
+### Express
+### Jest
+### SQLite3
+### Testing Libraries
 
 
 ## What makes Coin Tracker stand out?
