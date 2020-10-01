@@ -1,5 +1,5 @@
 ## VR-Funding
-VR-Funding is an investment hub where young entrepeneurs can access VR-Funding, post their startup ideas, gain funding, and excel with their projects!
+VR-Funding is an investment hub where young entrepreneurs can access VR-Funding, post their startup ideas, gain funding, and excel with their projects!
 
 ## Motivation
 Gaining investors is hard. With the internet it makes it so much easier to access investors around the globe who are dying to invest in startups. We appeal to Venture Capitalists and Angel Investors. They can find deals they like, invest and become part of the business! Simple as that!
